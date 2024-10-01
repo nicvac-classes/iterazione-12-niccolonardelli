@@ -16,7 +16,7 @@ int main()
     if (risparmi<costomoto)
     {
         cout << "in questo momento hai " << risparmi << "€" << endl;
-        cout << "per poter comprare la moto ti servono ancora " << costomoto-risparmi <<"€";
+        cout << "per poter comprare la moto ti servono ancora " << costomoto-risparmi <<"€"; 
     }
     else
     {
